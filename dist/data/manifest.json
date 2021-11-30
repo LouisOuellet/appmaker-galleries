@@ -1,0 +1,13 @@
+{
+    "repository": {
+        "name": "appmaker-galleries",
+        "branch": "dev",
+        "manifest": "\/dist\/data\/manifest.json",
+        "host": {
+            "git": "git@github.com:LouisOuellet\/"
+        }
+    },
+    "name": "galleries",
+    "build": 2,
+    "version": "21.11-dev"
+}

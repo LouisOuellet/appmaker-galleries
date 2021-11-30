@@ -1,0 +1,39 @@
+{
+    "galleries": [
+        {
+            "id": 1,
+            "created": "2021-11-25 14:34:30",
+            "modified": "2021-11-25 14:34:30",
+            "owner": "2",
+            "updated_by": "2",
+            "name": "Mariage de Louis et Christelle",
+            "dirname": "\/Volumes\/Projects\/appmaker\/data\/events\/1\/gallery"
+        }
+    ],
+    "pictures": [
+        {
+            "id": 100000,
+            "created": "2021-11-30 09:40:41",
+            "modified": "2021-11-30 09:40:41",
+            "owner": "2",
+            "updated_by": "2",
+            "dirname": "\/Volumes\/Projects\/appmaker\/data\/events\/1\/gallery",
+            "basename": "hands.png",
+            "extension": "png",
+            "filename": "hands",
+            "size": "3258764"
+        },
+        {
+            "id": 100001,
+            "created": "2021-11-30 09:40:41",
+            "modified": "2021-11-30 09:40:41",
+            "owner": "2",
+            "updated_by": "2",
+            "dirname": "\/Volumes\/Projects\/appmaker\/data\/events\/1\/gallery",
+            "basename": "roses.png",
+            "extension": "png",
+            "filename": "roses",
+            "size": "27478551"
+        }
+    ]
+}

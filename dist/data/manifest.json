@@ -2,12 +2,19 @@
     "repository": {
         "name": "appmaker-galleries",
         "branch": "dev",
-        "manifest": "\/dist\/data\/manifest.json",
         "host": {
-            "git": "git@github.com:LouisOuellet\/"
-        }
+            "git": "https:\/\/github.com\/LouisOuellet\/",
+            "raw": "https:\/\/raw.githubusercontent.com\/LouisOuellet\/"
+        },
+        "manifest": "\/dist\/data\/manifest.json"
     },
     "name": "galleries",
-    "build": 2,
-    "version": "21.11-dev"
+    "build": 3,
+    "version": "21.11-dev",
+    "requirements": {
+        "table": [
+            "galleries",
+            "pictures"
+        ]
+    }
 }

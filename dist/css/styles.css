@@ -1,8 +1,9 @@
 .picture button{
   display: block;
-  position: relative;
+  position: absolute;
   bottom: 0;
   left: 0;
+  width: 100%;
 }
 /* .picture:hover button{
   display: block;

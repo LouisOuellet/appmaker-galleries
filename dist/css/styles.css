@@ -1,0 +1,6 @@
+.picture button{
+  display: none;
+}
+.picture:hover button{
+  display: block;
+}

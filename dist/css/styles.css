@@ -2,9 +2,9 @@
   position: absolute;
   bottom: 0;
   left: 0;
-  height: 50%;
+  /* height: 50%; */
   width: 100%;
   border-radius: 0px 0px 4px 4px;
   padding: 0px;
-  transition: 0.15s;
+  transition: 0.05s;
 }

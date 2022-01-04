@@ -9,8 +9,8 @@
         "manifest": "\/dist\/data\/manifest.json"
     },
     "name": "galleries",
-    "build": 21,
-    "version": "21.12-dev",
+    "build": 22,
+    "version": "22.01-dev",
     "requirements": {
         "table": [
             "galleries",

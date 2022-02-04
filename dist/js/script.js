@@ -1,6 +1,6 @@
-API.Plugins.galleries = {
+Engine.Plugins.galleries = {
 	init:function(){
-		API.GUI.Sidebar.Nav.add('galleries', 'main_navigation');
+		Engine.GUI.Sidebar.Nav.add('galleries', 'main_navigation');
 	},
 	load:{
 		index:function(){},
@@ -8,4 +8,4 @@ API.Plugins.galleries = {
 	},
 }
 
-API.Plugins.galleries.init();
+Engine.Plugins.galleries.init();

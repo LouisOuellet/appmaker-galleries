@@ -1,7 +1,7 @@
 {
     "repository": {
         "name": "appmaker-galleries",
-        "branch": "dev",
+        "branch": "pre-release",
         "host": {
             "git": "https:\/\/github.com\/LouisOuellet\/",
             "raw": "https:\/\/raw.githubusercontent.com\/LouisOuellet\/"
@@ -9,8 +9,8 @@
         "manifest": "\/dist\/data\/manifest.json"
     },
     "name": "galleries",
-    "build": 29,
-    "version": "22.05-dev",
+    "build": 30,
+    "version": "22.05-pre-release",
     "requirements": {
         "table": [
             "galleries",
